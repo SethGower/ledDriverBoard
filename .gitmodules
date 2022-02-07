@@ -1,0 +1,3 @@
+[submodule "custom_library"]
+	path = custom_library
+	url = https://gitlab.com/VictorLamoine/kicad.git
