@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "ESP32_DevKit_V1_DOIT")(type "Legacy")(uri "${KIPRJMOD}/../custom_libraries/esp32_VL/symbols/esp32_devkit_v1_doit.lib")(options "")(descr ""))
+  (lib (name "custom_symbols")(type "KiCad")(uri "/home/sgower/Documents/LED_Driver/custom_libraries/sgower/custom_symbols.kicad_sym")(options "")(descr ""))
 )

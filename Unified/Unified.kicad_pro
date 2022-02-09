@@ -343,7 +343,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "custom_symbols"
+    ]
   },
   "meta": {
     "filename": "Unified.kicad_pro",
